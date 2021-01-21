@@ -1,7 +1,17 @@
 {
-   "Name": "Pragmatic Language",
-   "BIDSVersion": "1.1.1",
-   "License": "CC-BY 4.0",
-   "Authors": ["Rasgado-Toledo, J.","Lizcano-Cortés, F.","Olalde-Mathieu, V.","Zamora-Ursulo, M.","Licea-Haquet, G.","Carillo-Peña, A.","Navarrete, E.","Reyes-Aguilar, A.*","Giordano, M"],
-   "Acknowledgements":"We thank Drs. Erick Pasaye, Leopoldo González-Santos, Juan Ortiz, and the personnel at the National Laboratory for Magnetic Resonance Imaging (LANIREM UNAM), for their valuable assistance. This work received support from Luis Aguilar, Alejandro De León, Carlos Flores, and Jair García of the Laboratorio Nacional de Visualización Científica Avanzada (LAVIS). Additional thanks to Elizabeth Valles-Capetillo and Francis Manno for their valuable help with recruitment and MRI data acquisition."
+    "Name": "Pragmatic Language",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Rasgado-Toledo, J.",
+        "Lizcano-Cort\u00e9s, F.",
+        "Olalde-Mathieu, V.",
+        "Zamora-Ursulo, M.",
+        "Licea-Haquet, G.",
+        "Carillo-Pe\u00f1a, A.",
+        "Navarrete, E.",
+        "Reyes-Aguilar, A.*",
+        "Giordano, M"
+    ],
+    "Acknowledgements": "We thank Drs. Erick Pasaye, Leopoldo Gonz\u00e1lez-Santos, Juan Ortiz, and the personnel at the National Laboratory for Magnetic Resonance Imaging (LANIREM UNAM), for their valuable assistance. This work received support from Luis Aguilar, Alejandro De Le\u00f3n, Carlos Flores, and Jair Garc\u00eda of the Laboratorio Nacional de Visualizaci\u00f3n Cient\u00edfica Avanzada (LAVIS). Additional thanks to Elizabeth Valles-Capetillo and Francis Manno for their valuable help with recruitment and MRI data acquisition, and to Domingo Mart\u00ednez for quality control of datasets."
 }
