@@ -1,0 +1,18 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"ProcedureStepDescription": "CompMet",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SS_SP_SK",
+	"SeriesDescription": "PU:Sag_T1_FSPGR_BRAVO",
+	"ProtocolName": "PU:Sag_T1_FSPGR_BRAVO",
+	"ImageType": ["DERIVED", "PRIMARY", "OTHER"],
+	"AcquisitionDateTime": "2017-07-12T19:22:39.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 12,
+	"EchoTime": 0.00318,
+	"RepetitionTime": 0.008156,
+	"InversionTime": 0.45,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.8.4"
+}
